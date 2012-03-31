@@ -35,6 +35,10 @@ public class md5 {
 		generateMD5(in);
 	}
 	
+	public String getInput(){
+		return input;
+	}
+	
 	public String getOutput(){
 		return output;
 	}

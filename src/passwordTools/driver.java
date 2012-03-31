@@ -34,6 +34,12 @@ public class driver {
 		
 		hash.setInput(sc.nextLine());
 		System.out.println(hash.getOutput());
+		
+		sc.close();
+		
+		fileOp fo = new fileOp();
+		
+		fo.writeToFile("out.txt", hash.getInput(),hash.getOutput());
 
 	}
 
