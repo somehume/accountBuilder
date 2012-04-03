@@ -32,7 +32,7 @@
 
 package passwordTools;
 
-import java.io.*;
+//import java.io.*;
 
 public class UnicodeFormatter  {
 

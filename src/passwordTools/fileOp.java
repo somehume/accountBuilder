@@ -6,7 +6,7 @@ package passwordTools;
 import java.io.*;
 
 /**
- * @author donnie
+ * @author Donald Brown
  *
  */
 public class fileOp {

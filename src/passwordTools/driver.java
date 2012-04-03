@@ -4,11 +4,11 @@
 package passwordTools;
 
 /**
- * @author donnie
+ * @author Donald Brown
  *
  */
 
-import java.io.*;
+
 import java.security.NoSuchAlgorithmException;
 import java.util.*;
 

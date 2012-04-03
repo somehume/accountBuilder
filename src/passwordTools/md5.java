@@ -4,15 +4,15 @@
 package passwordTools;
 
 import java.security.*;
-import java.util.*;
-import java.io.*;
-import java.math.BigInteger;
+//import java.util.*;
+//import java.io.*;
+//import java.math.BigInteger;
 import org.apache.commons.codec.binary.*;
 import java.nio.charset.*;
 
 
 /**
- * @author donnie
+ * @author Donald Brown
  * 
  */
 public class md5 {
